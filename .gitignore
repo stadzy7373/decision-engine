@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Vitest / Vite cache
+node_modules/.vite/
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Vitest / Vite cache
+node_modules/.vite/
